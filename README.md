@@ -18,4 +18,4 @@
 
 ### Tools
 
-    - Go to [Node JS Website](https://nodejs.org)
+- Go to [Node JS Website](https://nodejs.org)
