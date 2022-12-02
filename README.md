@@ -19,3 +19,5 @@
 ### Tools
 
 - Go to [Node JS Website](https://nodejs.org)
+- Download and install the LTS version for the OS
+- Verify the version
